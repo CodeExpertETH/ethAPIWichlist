@@ -2,7 +2,7 @@
 
 Get the groups of an eth lecture.
 
-**URL** : `/api/lecture/groups/:vvz_number/:vvz_type/semester`
+**URL** : `/api/lecture/groups/:vvz_number/:vvz_type/:semester`
 
 **URL Parameters** : 
  - `vvz_number=[string]` is the code of the lecture in vvz.

@@ -2,9 +2,12 @@
 
 Get the details of an eth user.
 
-**URL** : `/api/user/:switchEduId`
+**URL** : `/api/user/:switchEduId` or  `/api/user/:nethz`
 
-**URL Parameters** : `switchEduId=[string]` where `switchEduId` is the Switch Edu Id of the user.
+**URL Parameters** : 
+
+- `switchEduId=[string]` where `switchEduId` is the Switch Edu Id of the user.
+- `nethz=[string]` where `nethz` is the nethz username of the user.
 
 **Method** : `GET`
 

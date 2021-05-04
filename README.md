@@ -27,3 +27,6 @@ Information about ETH lectures
 * [Add a TA to a group](lecture/groups/putTA.md) : `PUT /api/lecture/groups/tas`
 * [Delete a student from a group](lecture/groups/deleteStudent.md) : `DELETE /api/lecture/groups/students`
 * [Delete a TA from a group](lecture/groups/deleteTA.md) : `DELETE /api/lecture/groups/tas`
+
+#### Marks
+* [Add a mark for a student](lecture/marks/postMark.md) : `POST /api/lecture/marks`
