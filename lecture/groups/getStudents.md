@@ -21,7 +21,7 @@ This returns the registered students of a group.
 
 ```json
 {
-  "tas": [
+  "students": [
     "switchEduId1",
     "switchEduId2",
     "switchEduId3"
