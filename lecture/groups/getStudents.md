@@ -2,7 +2,7 @@
 
 This returns the registered students of a group.
 
-**URL** : `/api/lecture/groups/tas/:groupId
+**URL** : `/api/lecture/groups/students/:groupId`
 
 **URL Parameters** : 
  - `groupId=[string]` the groupId
