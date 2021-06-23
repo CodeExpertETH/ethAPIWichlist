@@ -2,7 +2,7 @@
 
 This returns the registered TAs of a group.
 
-**URL** : `/api/lecture/groups/students/:groupId
+**URL** : `/api/lecture/groups/students/:groupId`
 
 **URL Parameters** : 
  - `groupId=[string]` the groupId
