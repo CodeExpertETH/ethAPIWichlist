@@ -30,3 +30,7 @@ Information about ETH lectures
 
 #### Marks
 * [Add a mark for a student](lecture/marks/postMark.md) : `POST /api/lecture/marks`
+
+#### Rooms
+
+* [Some ideas](user/ideas.md)
