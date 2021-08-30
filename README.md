@@ -33,4 +33,4 @@ Information about ETH lectures
 
 #### Rooms
 
-* [Some ideas](user/ideas.md)
+* [Some ideas](room/ideas.md)
