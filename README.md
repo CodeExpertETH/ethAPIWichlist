@@ -1,9 +1,9 @@
 # ETH API wishlist
 
-This Repo should document some use cases and possible endpoints for a new eth api.
+This Repo should document some use cases and possible endpoints for a eth api, which could be used by our tools.
 
 
-## Authentication
+## Authentication and security
 
 Is completely ignored during this phase of the design.
 
